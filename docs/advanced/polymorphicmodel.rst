@@ -5,7 +5,7 @@ When you have to combine :class:`~parler.models.TranslatableModel`
 with :class:`~polymorphic.models.PolymorphicModel` you
 have to make sure the model managers of both classes are combined too.
 
-This can be done by either overwriting :ref:`default_manager <custom-managers-and-inheritance>`
+This can be done by either overwriting `default_manager <custom-managers-and-inheritance>`
 or by extending the :class:`~django.db.models.Manager` and :class:`~django.db.models.query.QuerySet` class.
 
 

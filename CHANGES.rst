@@ -1,6 +1,24 @@
 Changelog
 =========
 
+Changes in 3.0 (2024-05-10)
+---------------------------
+
+* Added support for python 3.9.
+* Added support for python 3.10.
+* Added support for python 3.11.
+* Added support for python 3.12.
+* Added Django 5.0 support.
+* Added Django 4.2 support.
+* Dropped support for Python 3.6.
+* Dropped support for Python 3.7.
+* Dropped support for Python 3.8.
+* Dropped support for Django 2.2.
+* Dropped support for Django 3.0.
+* Dropped support for Django 3.1.
+* Dropped support for Django 3.2.
+* Dropped support for Django 4.0.
+
 Changes in 2.3 (2021-11-18)
 ---------------------------
 
